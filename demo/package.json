@@ -1,0 +1,70 @@
+{
+  "_from": "https://github.com/jqwidgets/demo/tarball/master",
+  "_id": "demo@",
+  "_inBundle": false,
+  "_integrity": "sha512-US3yXHozIeAZ23QLdEjE65ksy6EhTaOAJFaWrlRcOeR60VOhqzDyXo1xaIoz4TLucViIDv0E9OrTamh/ga9ppg==",
+  "_location": "/demo/demo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "demo@https://github.com/jqwidgets/demo/tarball/master",
+    "name": "demo",
+    "escapedName": "demo",
+    "rawSpec": "https://github.com/jqwidgets/demo/tarball/master",
+    "saveSpec": "https://github.com/jqwidgets/demo/tarball/master",
+    "fetchSpec": "https://github.com/jqwidgets/demo/tarball/master"
+  },
+  "_requiredBy": [],
+  "_resolved": "https://github.com/jqwidgets/demo/tarball/master",
+  "_shasum": "5eae6f25352bf77f9c9c7b1861c16f35fb09e433",
+  "_spec": "demo@https://github.com/jqwidgets/demo/tarball/master",
+  "_where": "/usr/local/lib/node_modules/demo",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "jqwidgets-scripts": "^8.1.4",
+    "vue": "^2.6.10"
+  },
+  "deprecated": false,
+  "description": "Please refer to its documentation:   - [Getting Started](https://github.com/jqwidgets/demo/blob/master/README.md#getting-started)    - [jQWidgets Vue Documentation](http://www.jqwidgets.com/vue-components-documentation/)",
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "name": "demo",
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve"
+  },
+  "version": ""
+}
